@@ -1,4 +1,4 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/_Office_logo_%282013%E2%80%932019%29.svg/1280px-_Office_logo_%282013%E2%80%932019%29.svg.png" width="100" alt="Office Suite icon"/></p>
+<p align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-office-icon-svg-download-png-14549408.png" width="100" alt="Office Suite icon"/></p>
 <h1 align="center">Office Suite — Productivity Suite</h1>
 <p align="center">Professional-grade productivity suite — powerful features, native performance underneath.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/productivity_suite-blue?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-orange?style=flat-square"/></p>
